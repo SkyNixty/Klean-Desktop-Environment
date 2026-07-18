@@ -34,3 +34,13 @@ Named after KDE (K Desktop Environment)
 #### Dock items (left to right):
 * Application launcher with distro logo
 * Icon only task manager
+
+## How to add to your KDE
+1. clone the repo and move it to your KDE themes folder
+```bash
+git clone https://github.com/SkyNixty/Klean-Desktop-Environment.git
+mv 'Klean-Desktop-Environment/Klean desktop environment' ~/.local/share/plasma/look-and-feel/
+kbuildsycoca6 --noincremental
+```
+2. Enable it in Sytem Settings > Colors & Themes > Global Theme
+3. If anything is missing add it manually, components are under 'Consists'
