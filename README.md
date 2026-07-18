@@ -10,7 +10,7 @@ Named after KDE (K Desktop Environment)
 * 'Watch_Dogs' Splash Screen
 
 ## Screenshot
-<img src="screenshots/Screenshot_20260719_000043.png" width="600">
+<img src="Screenshots/Screenshot_20260719_000043.png" width="600">
 
 ## Panel and Dock settings
 #### Panel (Top): 
