@@ -1,5 +1,6 @@
 # Klean-Desktop-Environment
-Named after KDE (K Desktop Environment)
+Named after KDE (K Desktop Environment)<br>
+I also suggest changing the app launcher logo to your distro, or the default one
 
 ### Consists
 * '[Sweet KDE](https://github.com/EliverLara/Sweet-kde)' Plasma Style
