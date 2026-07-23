@@ -2,12 +2,12 @@
 Named after KDE (K Desktop Environment)
 
 ### Consists
-* 'Sweet KDE' Plasma Style
-* 'Nothing' Window Decorations
-* 'Midnight Sonata - Dark' Icon Pack
-* 'Babita-Modern-Ice' Cursor (size 20)
-* 'Ocean' System Sounds
-* 'Watch_Dogs' Splash Screen
+* '[Sweet KDE](https://github.com/EliverLara/Sweet-kde)' Plasma Style
+* '[Nothing](https://gitlab.com/jomada/nothing)' Window Decorations
+* '[Midnight Sonata - Dark](https://github.com/SethStormR/Midnight-Sonata)' Icon Pack
+* '[Babita-Modern-Ice](https://github.com/ful1e5/Bibata_Cursor)' Cursor (size 20)
+* '[Ocean](https://github.com/KDE/ocean-sound-theme)' System Sounds
+* '[Watch_Dogs](https://github.com/ferretwithaberet/watch_dogs-kde-splash)' Splash Screen
 
 ## Screenshot
 <img src="Screenshots/Screenshot_20260719_000043.png" width="600">
